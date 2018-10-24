@@ -1,8 +1,8 @@
-# WALDEN
-## LIFE IN THE WOODS
-### BY Henry David Thoreau's 
+# WALDEN - LIFE IN THE WOODS
 
-# HEADER
+By Henry David Thoreau's 
+
+## HEADER
 
 About the electronic version
 
